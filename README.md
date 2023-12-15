@@ -1,2 +1,4 @@
 # yt-demo
-repository of first project
+repository of my first project
+By San
+
